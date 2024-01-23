@@ -115,3 +115,13 @@ def iniciar_desafio(request):
         desafio.save()
 
         return redirect(f'/flashcard/desafio/{desafio.id}')
+
+def listar_desafio(request):
+    desafios = Desafio.objects.filter(user=request.user)
+    return render(
+        request,
+        'listar_desafio.html',
+        {
+            'desafios': desafios,
+        },
+    )
