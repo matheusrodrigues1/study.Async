@@ -26,7 +26,7 @@ O aplicativo "Study Async" é uma plataforma de perguntas e respostas que permit
 
 ## Autor
 
-[Email](carlostech873@gmail.com)</br>
-[Currículo](https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1)</br>
-[Linkedin](https://www.linkedin.com/in/matheus-rodrigues-1a1899231/)</br>
-[Instagram](https://www.instagram.com/math.eusrrodrigues/)
+✉️: [Email](carlostech873@gmail.com)</br>
+📄: [Currículo](https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1)</br>
+💼: [Linkedin](https://www.linkedin.com/in/matheus-rodrigues-1a1899231/)</br>
+📸: [Instagram](https://www.instagram.com/math.eusrrodrigues/)
