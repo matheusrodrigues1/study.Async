@@ -1,33 +1,26 @@
-<h1>study.Async</h1>
-<p align="center">API Rest para um Sistema de Analise de Solicitação de Crédito</p>
+# study.Async
+
+API Rest para um Sistema de Analise de Solicitação de Crédito
+
 <p align="center">
-     <a alt="Java">
-     <a alt="Python">
-        <img src="https://img.shields.io/badge/Python-3.12-blue" />
-    </a>
-    <a alt="Kotlin">
-    <a alt="Django">
-        <img src="https://img.shields.io/badge/Django-5.0.2-yelow" />
-    </a>
-      <a alt="Kotlin">
-      <a alt="SQLite">
-        <img src="https://img.shields.io/badge/SQLite-3.45.1-pink" />
-    </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-5.0.2-yellow" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-3.45.1-pink" />
 </p>
 
-<h3>Descrição do Projeto</h3>
-<p><a href="git@github.com:matheusrodrigues1/study.Async.git">Link</a></p>
-<figure>
-<p align="center">
-  <img src="./templates/static/geral/img/02.png" height="300" width="450" alt="API para Sistema de Avaliação de Créditos"/><br>
-  <img src="./templates/static/geral/img/01.png" height="300" width="450" alt="API para Sistema de Avaliação de Créditos"/><br>
-  Diagrama UML Simplificado de uma API para Sistema de Avaliação de Crédito
-</p>
-</figure>
-@@ -28,7 +28,6 @@
-	<li>Entre na pasta raiz do projeto: <code>cd </code></li> 
-	<li>Execute o comando: <code>./gradlew bootrun</code></li>
-</ol>
+## Descrição do Projeto
 
+[Link](git@github.com:matheusrodrigues1/study.Async.git)
 
-<h3>Autor</h3>
+![API para Sistema de Avaliação de Créditos](./templates/static/geral/img/02.png)
+![API para Sistema de Avaliação de Créditos](./templates/static/geral/img/01.png)
+
+Diagrama UML Simplificado de uma API para Sistema de Avaliação de Crédito
+
+## Como Executar
+
+1. Clone o repositório: `git clone git@github.com:matheusrodrigues1/study.Async.git`
+2. Entre na pasta raiz do projeto: `cd study.Async`
+3. Execute o comando: `./gradlew bootrun`
+
+## Autor
