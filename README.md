@@ -1,6 +1,8 @@
 # study.Async
 
-Plataforma de Estudo Interativa para Diversas Áreas de Conhecimento
+<p align="center">
+  Plataforma de Estudo Interativa para Diversas Áreas de Conhecimento
+</p>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.12-blue" />
